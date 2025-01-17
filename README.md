@@ -1,1 +1,1 @@
-# ExtendedRealty_AI
+# ExtendedReality_AI
