@@ -87,9 +87,15 @@ Interactive3D: Create What You Want by Interactive 3D Generation: [Paper](https:
 Coin3D: Controllable and Interactive 3D Assets Generation with
 Proxy-Guided Conditioning: [Paper](https://arxiv.org/pdf/2405.08054), [Project Page](https://zju3dv.github.io/coin3d/), [Code](https://github.com/zju3dv/Coin3D)
 
+PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics Modeling: [Paper](https://arxiv.org/abs/2311.12198), [Project Page](https://xpandora.github.io/PhysGaussian/), [Code](https://github.com/XPandora/PhysGaussian)
+
 
 #### ***Application in XR***
-VR-Doh: Hands-on 3D Modeling in Virtual Reality: [Paper](https://arxiv.org/pdf/2412.00814)   
+VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality: [Paper](https://arxiv.org/pdf/2401.16663), [Project Page](https://yingjiang96.github.io/VR-GS/)
+
+VR-Doh: Hands-on 3D Modeling in Virtual Reality: [Paper](https://arxiv.org/pdf/2412.00814)  
+
+sMoRe: Enhancing Object Manipulation and Organization in Mixed Reality Spaces with LLMs and Generative AI: [Paper](https://arxiv.org/pdf/2411.11752)
 
 
 
