@@ -7,8 +7,11 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
 - [Agent and Avatar Research](#agent-and-avatar-research)
   - [Motion Generation](#motion-generation)
   - [Appearance Reconstruction](#appearance-reconstruction)
-  - [Path Planning](#path-planning)
-- [3D Content Generation](#3d-content-generation)
+  - [Human-Scene-Agent interaction](#human-scene-agent-interaction)
+
+- [Animal Modeling Research](#animal-modeling-research)
+
+- [3D object and scene modeling research](#3d-object-and-scene-modeling-research)
   - [Scene Generation and Editing](#scene-generation-and-editing)
   - [Object Generation and Editing](#object-generation-and-editing)
 - [Unsorted Papers](#unsorted-papers)
@@ -26,6 +29,8 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
 | DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation | [📄 Paper](https://arxiv.org/pdf/2401.04747) • [🌐 Project](https://jeremycjm.github.io/proj/DiffSHEG/) • [💻 Code](https://github.com/JeremyCJM/DiffSHEG) |
 | AV-Flow: Transforming Text to Audio-Visual Human-like Interactions | [📄 Paper](https://arxiv.org/pdf/2502.13133) • [🌐 Project](https://aggelinacha.github.io/AV-Flow/) |
 | LLAniMAtion: LLAMA Driven Gesture Animation | [📄 Paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.15167) |
+| Estimating Body and Hand Motion in an Ego-sensed World | [📄 Paper](https://arxiv.org/pdf/2410.03665) • [🌐 Project](https://egoallo.github.io/) • [💻 Code](https://github.com/brentyi/egoallo)|
+| Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation | [📄 Paper](https://www.arxiv.org/pdf/2504.19189) • [🌐 Project](https://zhongleilz.github.io/Sketch2Anim/) |
 
 #### 👫 Multiple People Interaction
 
@@ -36,6 +41,16 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
 | SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction | [📄 Paper](https://arxiv.org/abs/2412.00174) • [🌐 Project](https://solami-3d.github.io/) • [💻 Code](https://github.com/AlanJiang98/SOLAMI) |
 | SocialGen: Modeling Multi-Human Social Interaction with Language Models | [📄 Paper](https://arxiv.org/pdf/2503.22906) • [🌐 Project](https://socialgenx.github.io/) |
 | Towards Open Domain Text-Driven Synthesis of Multi-Person Motions | [📄 Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-73650-6_5.pdf) • [🌐 Project](https://shanmy.github.io/Multi-Motion/) |
+
+#### Human-Scene-Agent interaction
+| Paper | Links |
+|-------|-------|
+| PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks | [📄 Paper](https://arxiv.org/pdf/2411.00081) • [🌐 Project](https://aihabitat.org/partnr/) • [💻 Code](https://github.com/facebookresearch/partnr-planner) |
+| Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning | [📄 Paper](https://arxiv.org/pdf/2504.00907?) |
+| TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization | [📄 Paper](https://arxiv.org/pdf/2503.19901) • [🌐 Project](https://liangpan99.github.io/TokenHSI/) |
+| Situated Instruction Following | [📄 Paper](https://arxiv.org/pdf/2407.12061) • [🌐 Project](https://soyeonm.github.io/SIF_webpage/) • [💻 Code](https://github.com/soyeonm/SIF_github) |
+| Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind | [📄 Paper](https://arxiv.org/pdf/2411.11752) • [🌐 Project](https://dimadamen.github.io/OSNOM/) • [💻 Code](https://github.com/Chiaraplizz/OSNOM) |
+| Genesis | [🌐 Project](https://github.com/Genesis-Embodied-AI/Genesis)
 
 #### 🥽 Applications in XR
 
@@ -48,6 +63,14 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
 | Exploring Large Language Model-Driven Agents for Environment-Aware
 Spatial Interactions and Conversations in Virtual Reality Role-Play
 Scenarios | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937341) |
+| Single Actor Controlling Multiple Avatars for Social Virtual Realities | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937446) |
+| Observations on Virtual Reality Avatar Alignment with Research Participants’ Skin Tone and Gender | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937470) |
+| Immersive Tailoring of Embodied Agents Using Large Language Models | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937440) |
+| Follow Me: Confirmation-based Group Navigation in Collocated Virtual Reality | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937422) |
+| Influence of Audiovisual Realism on Communication Behaviour in Group-to-Group Telepresence | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937401) |
+| Investigating the Impact of Voice-only and Embodied Conversational Virtual Agents on Mixed Reality Puzzle Solving | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937463) |
+| The Reliability and Validity of the Avatar Embodiment Questionnaire | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937432) |
+| Effects of Embodiment and Personality in LLM-Based Conversational Agents | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937459) |
 
 ### Appearance Reconstruction
 
@@ -56,13 +79,19 @@ Scenarios | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumbe
 | TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality | [📄 Paper](https://arxiv.org/pdf/2503.17032) • [🌐 Project](https://pixelai-team.github.io/TaoAvatar/) |
 | Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting | [📄 Paper](https://arxiv.org/pdf/2504.20403) |
 
-### Path Planning
+### All-in-one models with motion and appearance
+| Text-based Animatable 3D Avatars with Morphable Model Alignment | [📄 Paper](https://arxiv.org/pdf/2504.15835) • [🌐 Project](https://onethousandwu.com/animportrait3d.github.io/) • [💻 Code](https://github.com/oneThousand1000/AnimPortrait3D) |
 
+
+## Animal Modeling Research
 | Paper | Links |
 |-------|-------|
-| TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization | [📄 Paper](https://arxiv.org/pdf/2503.19901) • [🌐 Project](https://liangpan99.github.io/TokenHSI/) |
+| Dog Code: Human to Quadruped Embodiment using Shared Codebooks | [📄 Paper](https://dl.acm.org/doi/pdf/10.1145/3677388.3696339) |
+| MagicArticulate: Make Your 3D Models Articulation-Ready | [📄 Paper](https://arxiv.org/pdf/2502.12135) • [🌐 Project](https://chaoyuesong.github.io/MagicArticulate/) • [💻 Code](https://github.com/Seed3D/MagicArticulate) |
+| WalkTheDog: Cross-Morphology Motion Alignment via Phase Manifolds| [📄 Paper](https://arxiv.org/pdf/2502.12135) | [📄 Paper](https://dl.acm.org/doi/pdf/10.1145/3641519.3657508) • [🌐 Project](https://peizhuoli.github.io/walkthedog/) • [💻 Code](https://github.com/PeizhuoLi/walk-the-dog/) |
 
-## 3D Content Generation
+
+## 3D Object and Scene Modeling research
 
 ### Scene Generation and Editing
 
@@ -89,6 +118,10 @@ Scenarios | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumbe
 | MRUnion: Asymmetric Task-Aware 3D Mutual Scene Generation for Mixed Reality Telepresence | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10927649) |
 | VR-NeRF: High-Fidelity Virtualized Walkable Spaces | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10927649)• [🌐 Project](https://vr-nerf.github.io/) |
 | Text2VRScene: Exploring the Framework of Automated Text-driven Generation System for VR Experience | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494137) |
+| Analyzing Multimodal Interaction Strategies for LLM-Assisted Manipulation of 3D Scenes | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937441) |
+| SRBF-Gaussian: Streaming-Optimized 3D Gaussian Splatting for Real-Time Large-Scale Scene Reconstruction | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937391) |
+| Evaluating the Impact of Immersiveness in Virtual Reality Simulations on Anxiety Reduction for MRI Procedures: A Preliminary Study | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937347) |
+| EmBARDiment: an Embodied AI Agent for Productivity in XR | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937406) |
 
 
 ### Object Generation and Editing
@@ -126,6 +159,9 @@ Scenarios | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumbe
 |-------|-------|
 | From Everyday Technologies to Augmented Reality: An Autoethnographic Study of Presence and Engagement | [📄 Paper](https://arxiv.org/pdf/2503.02258) |
 | Design and Implementation of the Transparent, Interpretable, and Multimodal (TIM) AR Personal Assistant | [📄 Paper](https://arxiv.org/pdf/2504.02197) |
+| VF-Lens: Enhancing Visual Perception of Visually Impaired Users in VR via Adversarial Learning with Visual Field Attention | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937453&tag=1) |
+| MagicScroll: Enhancing Immersive Storytelling with Controllable Scroll Image Generation | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937395) |
+| Implicit Learning of Professional Skills through Immersive Virtual Reality: a Media Comparison Study | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937417) |
 
 ---
 
