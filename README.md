@@ -7,13 +7,12 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
 - [Agent and Avatar Research](#agent-and-avatar-research)
   - [Motion Generation](#motion-generation)
   - [Appearance Reconstruction](#appearance-reconstruction)
-  - [Human-Scene-Agent interaction](#human-scene-agent-interaction)
-
+  - [Human-Scene-Agent Interaction](#human-scene-agent-interaction)
 - [Animal Modeling Research](#animal-modeling-research)
-
-- [3D object and scene modeling research](#3d-object-and-scene-modeling-research)
+- [3D Object and Scene Modeling Research](#3d-object-and-scene-modeling-research)
   - [Scene Generation and Editing](#scene-generation-and-editing)
   - [Object Generation and Editing](#object-generation-and-editing)
+- [Inclusive Consideration](#inclusive-consideration)
 - [Unsorted Papers](#unsorted-papers)
 
 ## Agent and Avatar Research
@@ -42,7 +41,7 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
 | SocialGen: Modeling Multi-Human Social Interaction with Language Models | [📄 Paper](https://arxiv.org/pdf/2503.22906) • [🌐 Project](https://socialgenx.github.io/) |
 | Towards Open Domain Text-Driven Synthesis of Multi-Person Motions | [📄 Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-73650-6_5.pdf) • [🌐 Project](https://shanmy.github.io/Multi-Motion/) |
 
-#### Human-Scene-Agent interaction
+#### 🌍🤖🏠 Human-Scene-Agent interaction
 | Paper | Links |
 |-------|-------|
 | PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks | [📄 Paper](https://arxiv.org/pdf/2411.00081) • [🌐 Project](https://aihabitat.org/partnr/) • [💻 Code](https://github.com/facebookresearch/partnr-planner) |
@@ -60,9 +59,7 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
 | SocialMind: LLM-based Proactive AR Social Assistive System | [📄 Paper](https://dl.acm.org/doi/pdf/10.1145/3712286) |
 | Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10765466) |
 | On the Go with AR: Attention to Virtual and Physical Targets while Varying Augmentation Density | [📄 Paper](https://dl.acm.org/doi/pdf/10.1145/3706598.3714289) |
-| Exploring Large Language Model-Driven Agents for Environment-Aware
-Spatial Interactions and Conversations in Virtual Reality Role-Play
-Scenarios | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937341) |
+| Exploring Large Language Model-Driven Agents for Environment-Aware Spatial Interactions and Conversations in Virtual Reality Role-Play Scenarios | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937341) |
 | Single Actor Controlling Multiple Avatars for Social Virtual Realities | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937446) |
 | Observations on Virtual Reality Avatar Alignment with Research Participants’ Skin Tone and Gender | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937470) |
 | Immersive Tailoring of Embodied Agents Using Large Language Models | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937440) |
@@ -80,6 +77,8 @@ Scenarios | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumbe
 | Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting | [📄 Paper](https://arxiv.org/pdf/2504.20403) |
 
 ### All-in-one models with motion and appearance
+| Paper | Links |
+|-------|-------|
 | Text-based Animatable 3D Avatars with Morphable Model Alignment | [📄 Paper](https://arxiv.org/pdf/2504.15835) • [🌐 Project](https://onethousandwu.com/animportrait3d.github.io/) • [💻 Code](https://github.com/oneThousand1000/AnimPortrait3D) |
 
 
@@ -153,16 +152,24 @@ Scenarios | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumbe
 | VR-Doh: Hands-on 3D Modeling in Virtual Reality | [📄 Paper](https://arxiv.org/pdf/2412.00814) |
 | sMoRe: Enhancing Object Manipulation and Organization in Mixed Reality Spaces with LLMs and Generative AI | [📄 Paper](https://arxiv.org/pdf/2411.11752) |
 
+## Inclusive Consideration
+
+| Paper | Links |
+|-------|-------|
+| VF-Lens: Enhancing Visual Perception of Visually Impaired Users in VR via Adversarial Learning with Visual Field Attention | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937453&tag=1) |
+| Implicit Learning of Professional Skills through Immersive Virtual Reality: a Media Comparison Study | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937417) |
+| Comparing Vibrotactile and Skin-Stretch Haptic Feedback for Conveying Spatial Information of Virtual Objects to Blind VR Users | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937452) |
+
 ## Unsorted Papers
 
 | Paper | Links |
 |-------|-------|
 | From Everyday Technologies to Augmented Reality: An Autoethnographic Study of Presence and Engagement | [📄 Paper](https://arxiv.org/pdf/2503.02258) |
 | Design and Implementation of the Transparent, Interpretable, and Multimodal (TIM) AR Personal Assistant | [📄 Paper](https://arxiv.org/pdf/2504.02197) |
-| VF-Lens: Enhancing Visual Perception of Visually Impaired Users in VR via Adversarial Learning with Visual Field Attention | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937453&tag=1) |
 | MagicScroll: Enhancing Immersive Storytelling with Controllable Scroll Image Generation | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937395) |
+| VF-Lens: Enhancing Visual Perception of Visually Impaired Users in VR via Adversarial Learning with Visual Field Attention | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937453&tag=1) |
 | Implicit Learning of Professional Skills through Immersive Virtual Reality: a Media Comparison Study | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937417) |
-
+| Comparing Vibrotactile and Skin-Stretch Haptic Feedback for Conveying Spatial Information of Virtual Objects to Blind VR Users | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937452) |
 ---
 
 ## 🔄 Contributing
