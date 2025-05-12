@@ -167,9 +167,6 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
 | From Everyday Technologies to Augmented Reality: An Autoethnographic Study of Presence and Engagement | [📄 Paper](https://arxiv.org/pdf/2503.02258) |
 | Design and Implementation of the Transparent, Interpretable, and Multimodal (TIM) AR Personal Assistant | [📄 Paper](https://arxiv.org/pdf/2504.02197) |
 | MagicScroll: Enhancing Immersive Storytelling with Controllable Scroll Image Generation | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937395) |
-| VF-Lens: Enhancing Visual Perception of Visually Impaired Users in VR via Adversarial Learning with Visual Field Attention | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937453&tag=1) |
-| Implicit Learning of Professional Skills through Immersive Virtual Reality: a Media Comparison Study | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937417) |
-| Comparing Vibrotactile and Skin-Stretch Haptic Feedback for Conveying Spatial Information of Virtual Objects to Blind VR Users | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937452) |
 ---
 
 ## 🔄 Contributing
