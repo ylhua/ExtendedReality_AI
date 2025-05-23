@@ -44,6 +44,7 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
 #### 🌍🤖🏠 Human-Scene-Agent interaction
 | Paper | Links |
 |-------|-------|
+| UniHM: Universal Human Motion Generation with Object Interactions in Indoor Scenes | [📄 Paper](https://arxiv.org/pdf/2505.12774) |
 | PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks | [📄 Paper](https://arxiv.org/pdf/2411.00081) • [🌐 Project](https://aihabitat.org/partnr/) • [💻 Code](https://github.com/facebookresearch/partnr-planner) |
 | Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning | [📄 Paper](https://arxiv.org/pdf/2504.00907?) |
 | TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization | [📄 Paper](https://arxiv.org/pdf/2503.19901) • [🌐 Project](https://liangpan99.github.io/TokenHSI/) |
@@ -106,6 +107,7 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
 
 | Paper | Links |
 |-------|-------|
+| Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image | [📄 Paper](https://arxiv.org/pdf/2505.14537)|
 | Gaussian Grouping: Segment and Edit Anything in 3D Scenes | [📄 Paper](https://arxiv.org/pdf/2312.00732) • [🌐 Project](https://github.com/lkeab/gaussian-grouping) • [💻 Code](https://github.com/lkeab/gaussian-grouping) |
 | ScanEdit: Hierarchically-Guided Functional 3D Scan Editing | [📄 Paper](https://arxiv.org/pdf/2504.15049) • [🌐 Project](https://aminebdj.github.io/scanedit/) |
 | Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality | [📄 Paper](https://www.arxiv.org/pdf/2409.15959) |
@@ -129,6 +131,9 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
 
 | Paper | Links |
 |-------|-------|
+| MVPainter: Accurate and Detailed 3D Texture Generation via Multi-View Diffusion with Geometric Control | [📄 Paper](https://arxiv.org/pdf/2505.12635) • [🌐 Project](https://amap-cvlab.github.io/MV-Painter/) • [💻 Code](https://github.com/amap-cvlab/MV-Painter) |
+| Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets | [📄 Paper](https://arxiv.org/pdf/2505.07747) • [💻 Code](https://github.com/stepfun-ai/Step1X-3D) |
+| GAUSSIANANYTHING: INTERACTIVE POINT CLOUD FLOW MATCHING FOR 3D OBJECT GENERATION | [📄 Paper](https://openreview.net/pdf/f3bab32adef257475a22c475b4bacab80dd9b0da.pdf) • [🌐 Project](https://nirvanalan.github.io/projects/GA/) • [💻 Code](https://github.com/NIRVANALAN/GaussianAnything) |
 | High-fidelity 3D Object Generation from Single Image with RGBN-Volume Gaussian Reconstruction Model | [📄 Paper](https://arxiv.org/pdf/2504.01512) |
 | Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials | [📄 Paper](https://assetgen.github.io/static/AssetGen.pdf) • [🌐 Project](https://assetgen.github.io/)  |
 | INSTANT3D: FAST TEXT-TO-3D WITH SPARSE-VIEW GENERATION AND LARGE RECONSTRUCTION MODEL | [📄 Paper](https://arxiv.org/pdf/2311.06214) • [🌐 Project](https://jiahao.ai/instant3d/)
@@ -138,6 +143,7 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
 
 | Paper | Links |
 |-------|-------|
+| 3DGS-DRAG: DRAGGING GAUSSIANS FOR INTUITIVE POINT-BASED 3D EDITING | [📄 Paper](https://openreview.net/pdf/a63be65e0b2a30aa07aae872eb8f9f07d17ca95b.pdf) • [💻 Code](https://github.com/Dongjiahua/3DGS-Drag) |
 | PrEditor3D: Fast and Precise 3D Shape Editing | [📄 Paper](https://arxiv.org/pdf/2412.06592) • [🌐 Project](https://ziyaerkoc.com/preditor3d/) • [💻 Code](https://github.com/Rgtemze/preditor3d) |
 | Interactive3D: Create What You Want by Interactive 3D Generation | [📄 Paper](https://arxiv.org/abs/2404.16510) • [🌐 Project](https://interactive-3d.github.io/) • [💻 Code](https://github.com/interactive-3d/interactive3d) |
 | Coin3D: Controllable and Interactive 3D Assets Generation | [📄 Paper](https://arxiv.org/pdf/2405.08054) • [🌐 Project](https://zju3dv.github.io/coin3d/) • [💻 Code](https://github.com/zju3dv/Coin3D) |
