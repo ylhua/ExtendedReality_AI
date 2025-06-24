@@ -8,6 +8,7 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
   - [Motion Generation](#motion-generation)
   - [Appearance Reconstruction](#appearance-reconstruction)
   - [Human-Scene-Agent Interaction](#human-scene-agent-interaction)
+  - [Applications in XR](#applications-in-xr-1)
 - [Animal Modeling Research](#animal-modeling-research)
 - [3D Object and Scene Modeling Research](#3d-object-and-scene-modeling-research)
   - [Scene Generation and Editing](#scene-generation-and-editing)
@@ -30,6 +31,7 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
 | LLAniMAtion: LLAMA Driven Gesture Animation | [📄 Paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.15167) |
 | Estimating Body and Hand Motion in an Ego-sensed World | [📄 Paper](https://arxiv.org/pdf/2410.03665) • [🌐 Project](https://egoallo.github.io/) • [💻 Code](https://github.com/brentyi/egoallo)|
 | Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation | [📄 Paper](https://www.arxiv.org/pdf/2504.19189) • [🌐 Project](https://zhongleilz.github.io/Sketch2Anim/) |
+| Transformer Based Rich Motion Matching: Multi-modal Real-Time Motion Generation for Digital Humans | [📄 Paper](https://arxiv.org/pdf/2506.01077) • [💻 Code](https://github.com/teroon/TRiMM-Transformer-Based-Rich-Motion-Matching) |
 
 #### 👫 Multiple People Interaction
 
@@ -56,10 +58,13 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
 
 | Paper | Links |
 |-------|-------|
-| Danmaku Avatar: Enabling Asynchronous Co-viewing Experiences in Virtual Reality | [📄 Paper](https://dl.acm.org/doi/pdf/10.1145/3706599.3720139) |
+| Conversational dynamics in social virtual reality: A large-scale, longitudinal
+study of speech acts and nonverbal behavior | [📄 Paper](https://www.sciencedirect.com/science/article/pii/S0747563225001384) |
+| GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality | [📄 Paper](https://arxiv.org/pdf/2505.05441) |
+| Indifferent or Enthusiastic? Virtual Audiences Animation and Perception in Virtual Reality | [📄 Paper](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2021.666232/full) |
+| Danmaku Avatar: Enabling Asynchronous Co-viewing Experiences in Virtual Reality | [📄 Paper](https://dl.acm.org/doi/10.1145/3329485) |
 | SocialMind: LLM-based Proactive AR Social Assistive System | [📄 Paper](https://dl.acm.org/doi/pdf/10.1145/3712286) |
 | Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10765466) |
-| On the Go with AR: Attention to Virtual and Physical Targets while Varying Augmentation Density | [📄 Paper](https://dl.acm.org/doi/pdf/10.1145/3706598.3714289) |
 | Exploring Large Language Model-Driven Agents for Environment-Aware Spatial Interactions and Conversations in Virtual Reality Role-Play Scenarios | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937341) |
 | Single Actor Controlling Multiple Avatars for Social Virtual Realities | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937446) |
 | Observations on Virtual Reality Avatar Alignment with Research Participants’ Skin Tone and Gender | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10937470) |
@@ -82,6 +87,8 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
 |-------|-------|
 | Text-based Animatable 3D Avatars with Morphable Model Alignment | [📄 Paper](https://arxiv.org/pdf/2504.15835) • [🌐 Project](https://onethousandwu.com/animportrait3d.github.io/) • [💻 Code](https://github.com/oneThousand1000/AnimPortrait3D) |
 
+#### 🥽 Applications in XR
+| An embodied body morphology task for investigating self-avatar proportions perception in Virtual Reality| [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10931023) |
 
 ## Animal Modeling Research
 | Paper | Links |
@@ -116,6 +123,7 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
 
 | Paper | Links |
 |-------|-------|
+| ImaginateAR: AI-Assisted In-Situ Authoring in Augmented Reality | [📄 Paper](https://arxiv.org/pdf/2504.21360) |
 | MRUnion: Asymmetric Task-Aware 3D Mutual Scene Generation for Mixed Reality Telepresence | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10927649) |
 | VR-NeRF: High-Fidelity Virtualized Walkable Spaces | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10927649)• [🌐 Project](https://vr-nerf.github.io/) |
 | Text2VRScene: Exploring the Framework of Automated Text-driven Generation System for VR Experience | [📄 Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10494137) |
