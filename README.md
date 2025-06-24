@@ -13,6 +13,7 @@ A curated collection of cutting-edge research papers in Extended Reality (XR) an
 - [3D Object and Scene Modeling Research](#3d-object-and-scene-modeling-research)
   - [Scene Generation and Editing](#scene-generation-and-editing)
   - [Object Generation and Editing](#object-generation-and-editing)
+- [LLM](#LLM)
 - [Inclusive Consideration](#inclusive-consideration)
 - [Unsorted Papers](#unsorted-papers)
 
@@ -95,7 +96,8 @@ study of speech acts and nonverbal behavior | [📄 Paper](https://www.sciencedi
 |-------|-------|
 | Dog Code: Human to Quadruped Embodiment using Shared Codebooks | [📄 Paper](https://dl.acm.org/doi/pdf/10.1145/3677388.3696339) |
 | MagicArticulate: Make Your 3D Models Articulation-Ready | [📄 Paper](https://arxiv.org/pdf/2502.12135) • [🌐 Project](https://chaoyuesong.github.io/MagicArticulate/) • [💻 Code](https://github.com/Seed3D/MagicArticulate) |
-| WalkTheDog: Cross-Morphology Motion Alignment via Phase Manifolds| [📄 Paper](https://arxiv.org/pdf/2502.12135) | [📄 Paper](https://dl.acm.org/doi/pdf/10.1145/3641519.3657508) • [🌐 Project](https://peizhuoli.github.io/walkthedog/) • [💻 Code](https://github.com/PeizhuoLi/walk-the-dog/) |
+| WalkTheDog: Cross-Morphology Motion Alignment via Phase Manifolds | [📄 Paper](https://dl.acm.org/doi/pdf/10.1145/3641519.3657508) • [🌐 Project](https://peizhuoli.github.io/walkthedog/) • [💻 Code](https://github.com/PeizhuoLi/walk-the-dog/) |
+| Anymate: A Dataset and Baselines for Learning 3D Object Rigging | [📄 Paper](https://arxiv.org/pdf/2505.06227) • [🌐 Project](https://anymate3d.github.io/) • [💻 Code](https://github.com/yfde/Anymate) |
 
 
 ## 3D Object and Scene Modeling research
@@ -144,8 +146,9 @@ study of speech acts and nonverbal behavior | [📄 Paper](https://www.sciencedi
 | GAUSSIANANYTHING: INTERACTIVE POINT CLOUD FLOW MATCHING FOR 3D OBJECT GENERATION | [📄 Paper](https://openreview.net/pdf/f3bab32adef257475a22c475b4bacab80dd9b0da.pdf) • [🌐 Project](https://nirvanalan.github.io/projects/GA/) • [💻 Code](https://github.com/NIRVANALAN/GaussianAnything) |
 | High-fidelity 3D Object Generation from Single Image with RGBN-Volume Gaussian Reconstruction Model | [📄 Paper](https://arxiv.org/pdf/2504.01512) |
 | Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials | [📄 Paper](https://assetgen.github.io/static/AssetGen.pdf) • [🌐 Project](https://assetgen.github.io/)  |
-| INSTANT3D: FAST TEXT-TO-3D WITH SPARSE-VIEW GENERATION AND LARGE RECONSTRUCTION MODEL | [📄 Paper](https://arxiv.org/pdf/2311.06214) • [🌐 Project](https://jiahao.ai/instant3d/)
-| Meta 3D AssetGen 2.0: A new foundation model for 3D content creation |[🌐 Project](https://developers.meta.com/horizon/blog/AssetGen2)
+| INSTANT3D: FAST TEXT-TO-3D WITH SPARSE-VIEW GENERATION AND LARGE RECONSTRUCTION MODEL | [📄 Paper](https://arxiv.org/pdf/2311.06214) • [🌐 Project](https://jiahao.ai/instant3d/) |
+| Meta 3D AssetGen 2.0: A new foundation model for 3D content creation |[🌐 Project](https://developers.meta.com/horizon/blog/AssetGen2) |
+| Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets | [📄 Paper](https://arxiv.org/pdf/2505.12635) • [💻 Code](https://github.com/stepfun-ai/Step1X-3D) |
 
 #### ✏️ Editing
 
@@ -165,6 +168,18 @@ study of speech acts and nonverbal behavior | [📄 Paper](https://www.sciencedi
 | VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality | [📄 Paper](https://arxiv.org/pdf/2401.16663) • [🌐 Project](https://yingjiang96.github.io/VR-GS/) |
 | VR-Doh: Hands-on 3D Modeling in Virtual Reality | [📄 Paper](https://arxiv.org/pdf/2412.00814) |
 | sMoRe: Enhancing Object Manipulation and Organization in Mixed Reality Spaces with LLMs and Generative AI | [📄 Paper](https://arxiv.org/pdf/2411.11752) |
+
+## LLM
+| Paper | Links |
+|-------|-------|
+| XaiR: An XR Platform that Integrates Large Language Models with the Physical World | [📄 Paper](https://ieeexplore.ieee.org/document/10765376) • [🌐 Project](https://srutisrinidhi.github.io/XaiR/) • [💻 Code](https://github.com/srutisrinidhi/XaiR) |
+| AR Secretary Agent: Real-time Memory Augmentation via LLM-powered Augmented Reality Glasses | [📄 Paper](https://arxiv.org/pdf/2505.11888) |
+
+## Theory
+| Paper | Links |
+|-------|-------|
+| Five canonical findings from 30 years of psychological experimentation in virtual reality | [📄 Paper](https://www.researchgate.net/publication/392004650_Five_canonical_findings_from_30_years_of_psychological_experimentation_in_virtual_reality) |
+
 
 ## Inclusive Consideration
 
